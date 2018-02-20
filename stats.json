@@ -1,0 +1,256 @@
+{
+  "assetsByChunkName": {
+    "component---src-templates-doc-js": [
+      "component---src-templates-doc-js-dbfcbcb23ee664f85e97.js",
+      "component---src-templates-doc-js-dbfcbcb23ee664f85e97.js.map"
+    ],
+    "path---docs-core-swagger": [
+      "path---docs-core-swagger-80724a9e44780660e0d4.js",
+      "path---docs-core-swagger-80724a9e44780660e0d4.js.map"
+    ],
+    "path---docs-core-data-providers": [
+      "path---docs-core-data-providers-47d4f159476b90e19537.js",
+      "path---docs-core-data-providers-47d4f159476b90e19537.js.map"
+    ],
+    "path---docs-core-extending-jsonld-context": [
+      "path---docs-core-extending-jsonld-context-91d38aa9317edfe4af9d.js",
+      "path---docs-core-extending-jsonld-context-91d38aa9317edfe4af9d.js.map"
+    ],
+    "path---docs-core-fosuser-bundle": [
+      "path---docs-core-fosuser-bundle-ef3bff5d0600dcce0815.js",
+      "path---docs-core-fosuser-bundle-ef3bff5d0600dcce0815.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-771bf88360794cb9313c.js",
+      "component---src-pages-index-js-771bf88360794cb9313c.js.map"
+    ],
+    "path---docs-core-validation": [
+      "path---docs-core-validation-6e18bd6d432486019655.js",
+      "path---docs-core-validation-6e18bd6d432486019655.js.map"
+    ],
+    "path---docs-client-generator-react": [
+      "path---docs-client-generator-react-b14a2d26b49261922bca.js",
+      "path---docs-client-generator-react-b14a2d26b49261922bca.js.map"
+    ],
+    "path---docs-extra-troubleshooting": [
+      "path---docs-extra-troubleshooting-207200f194473b5d843b.js",
+      "path---docs-extra-troubleshooting-207200f194473b5d843b.js.map"
+    ],
+    "path---docs-core-performance": [
+      "path---docs-core-performance-0b6953a427b4886d1007.js",
+      "path---docs-core-performance-0b6953a427b4886d1007.js.map"
+    ],
+    "path---docs-deployment-kubernetes": [
+      "path---docs-deployment-kubernetes-9439f7b478619a0bcae5.js",
+      "path---docs-deployment-kubernetes-9439f7b478619a0bcae5.js.map"
+    ],
+    "path---docs-extra-contribution-guides": [
+      "path---docs-extra-contribution-guides-a87939211ab13006f006.js",
+      "path---docs-extra-contribution-guides-a87939211ab13006f006.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---docs-extra-philosophy": [
+      "path---docs-extra-philosophy-815a619f085c7a502fe5.js",
+      "path---docs-extra-philosophy-815a619f085c7a502fe5.js.map"
+    ],
+    "component---src-pages-news-js": [
+      "component---src-pages-news-js-55212a7965ba2c19e1b5.js",
+      "component---src-pages-news-js-55212a7965ba2c19e1b5.js.map"
+    ],
+    "path---docs-core-dto": [
+      "path---docs-core-dto-caace9e264680c20bff0.js",
+      "path---docs-core-dto-caace9e264680c20bff0.js.map"
+    ],
+    "path---docs-core-events": [
+      "path---docs-core-events-da38a9956f677df04fd8.js",
+      "path---docs-core-events-da38a9956f677df04fd8.js.map"
+    ],
+    "path---docs-admin-handling-relations-to-collections": [
+      "path---docs-admin-handling-relations-to-collections-f74fdeeb745d0320d348.js",
+      "path---docs-admin-handling-relations-to-collections-f74fdeeb745d0320d348.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---docs-core-nelmio-api-doc": [
+      "path---docs-core-nelmio-api-doc-5cb98d43d8def466e650.js",
+      "path---docs-core-nelmio-api-doc-5cb98d43d8def466e650.js.map"
+    ],
+    "path---docs-core-content-negotiation": [
+      "path---docs-core-content-negotiation-0200db66406156e8ff2a.js",
+      "path---docs-core-content-negotiation-0200db66406156e8ff2a.js.map"
+    ],
+    "path---docs-core-serialization": [
+      "path---docs-core-serialization-0b9a5ae84f531e1e0ce5.js",
+      "path---docs-core-serialization-0b9a5ae84f531e1e0ce5.js.map"
+    ],
+    "path---docs-extra-conduct": [
+      "path---docs-extra-conduct-aad73345ac3899873085.js",
+      "path---docs-extra-conduct-aad73345ac3899873085.js.map"
+    ],
+    "path---docs-core-configuration": [
+      "path---docs-core-configuration-fc0e89b663466128557b.js",
+      "path---docs-core-configuration-fc0e89b663466128557b.js.map"
+    ],
+    "path---docs-core-jwt": [
+      "path---docs-core-jwt-7d91dd3a5e5e9e0bc148.js",
+      "path---docs-core-jwt-7d91dd3a5e5e9e0bc148.js.map"
+    ],
+    "path---docs-schema-generator": [
+      "path---docs-schema-generator-83fe5e4b0bc192d1c54d.js",
+      "path---docs-schema-generator-83fe5e4b0bc192d1c54d.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ea4d7f53bdb0368ce57d.js",
+      "component---src-layouts-index-js-ea4d7f53bdb0368ce57d.js.map"
+    ],
+    "path---docs-core-pagination": [
+      "path---docs-core-pagination-f1244c7a537e6923c553.js",
+      "path---docs-core-pagination-f1244c7a537e6923c553.js.map"
+    ],
+    "path---docs": [
+      "path---docs-77f31ac1749e878d8459.js",
+      "path---docs-77f31ac1749e878d8459.js.map"
+    ],
+    "path---docs-core-security": [
+      "path---docs-core-security-7f1b4a9344281f9145d8.js",
+      "path---docs-core-security-7f1b4a9344281f9145d8.js.map"
+    ],
+    "path---support": [
+      "path---support-a0e39f21c11f6a62c5ab.js",
+      "path---support-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---docs-schema-generator-configuration": [
+      "path---docs-schema-generator-configuration-31c07be6045f40539707.js",
+      "path---docs-schema-generator-configuration-31c07be6045f40539707.js.map"
+    ],
+    "component---src-pages-support-js": [
+      "component---src-pages-support-js-d7eca0169042f8538ba5.js",
+      "component---src-pages-support-js-d7eca0169042f8538ba5.js.map"
+    ],
+    "path---docs-admin-authentication-support": [
+      "path---docs-admin-authentication-support-1878b400606c7c7c5a4a.js",
+      "path---docs-admin-authentication-support-1878b400606c7c7c5a4a.js.map"
+    ],
+    "path---docs-core-external-vocabularies": [
+      "path---docs-core-external-vocabularies-ab61c0c6580882e0fe25.js",
+      "path---docs-core-external-vocabularies-ab61c0c6580882e0fe25.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-09e0284ec99375023422.js",
+      "component---src-pages-404-js-09e0284ec99375023422.js.map"
+    ],
+    "path---docs-client-generator-troubleshooting": [
+      "path---docs-client-generator-troubleshooting-2bb05e1681915ca10099.js",
+      "path---docs-client-generator-troubleshooting-2bb05e1681915ca10099.js.map"
+    ],
+    "path---docs-admin": [
+      "path---docs-admin-1d49d5984dcd6cf125bd.js",
+      "path---docs-admin-1d49d5984dcd6cf125bd.js.map"
+    ],
+    "commons": [
+      "commons-6ce2c7ce9a700f00291b.js",
+      "commons-6ce2c7ce9a700f00291b.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---docs-deployment": [
+      "path---docs-deployment-5b4f3154543f69da6833.js",
+      "path---docs-deployment-5b4f3154543f69da6833.js.map"
+    ],
+    "path---docs-core-filters": [
+      "path---docs-core-filters-ea204819f2e6dfa9cd6d.js",
+      "path---docs-core-filters-ea204819f2e6dfa9cd6d.js.map"
+    ],
+    "path---docs-core-getting-started": [
+      "path---docs-core-getting-started-d58d1b0dcd4977463d68.js",
+      "path---docs-core-getting-started-d58d1b0dcd4977463d68.js.map"
+    ],
+    "path---docs-core-operations": [
+      "path---docs-core-operations-87d11c98540662d88440.js",
+      "path---docs-core-operations-87d11c98540662d88440.js.map"
+    ],
+    "path---docs-core": [
+      "path---docs-core-3a183ef6bf75c2982672.js",
+      "path---docs-core-3a183ef6bf75c2982672.js.map"
+    ],
+    "path---news": [
+      "path---news-a0e39f21c11f6a62c5ab.js",
+      "path---news-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---docs-core-operation-path-naming": [
+      "path---docs-core-operation-path-naming-8edaa74b27482b570dbf.js",
+      "path---docs-core-operation-path-naming-8edaa74b27482b570dbf.js.map"
+    ],
+    "path---docs-core-form-data": [
+      "path---docs-core-form-data-357f9bf14597ced9bbe3.js",
+      "path---docs-core-form-data-357f9bf14597ced9bbe3.js.map"
+    ],
+    "path---docs-schema-generator-getting-started": [
+      "path---docs-schema-generator-getting-started-3765f41d933d0622c84a.js",
+      "path---docs-schema-generator-getting-started-3765f41d933d0622c84a.js.map"
+    ],
+    "path---docs-distribution": [
+      "path---docs-distribution-86ed1868e2956402e0c5.js",
+      "path---docs-distribution-86ed1868e2956402e0c5.js.map"
+    ],
+    "path---docs-client-generator-vuejs": [
+      "path---docs-client-generator-vuejs-aa405251c119b1ecc148.js",
+      "path---docs-client-generator-vuejs-aa405251c119b1ecc148.js.map"
+    ],
+    "path---docs-admin-getting-started": [
+      "path---docs-admin-getting-started-8d7fe8a15a0ceb839e1e.js",
+      "path---docs-admin-getting-started-8d7fe8a15a0ceb839e1e.js.map"
+    ],
+    "app": [
+      "app-d3438bd646e968ead398.js",
+      "app-d3438bd646e968ead398.js.map"
+    ],
+    "path---docs-distribution-testing": [
+      "path---docs-distribution-testing-b8dddd17be46e8480ad3.js",
+      "path---docs-distribution-testing-b8dddd17be46e8480ad3.js.map"
+    ],
+    "path---docs-core-default-order": [
+      "path---docs-core-default-order-abaa25a7b6435eded3e4.js",
+      "path---docs-core-default-order-abaa25a7b6435eded3e4.js.map"
+    ],
+    "path---docs-deployment-heroku": [
+      "path---docs-deployment-heroku-ab4b87e7a91fefaade17.js",
+      "path---docs-deployment-heroku-ab4b87e7a91fefaade17.js.map"
+    ],
+    "path---docs-client-generator": [
+      "path---docs-client-generator-4a30c22070ce12493978.js",
+      "path---docs-client-generator-4a30c22070ce12493978.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---docs-core-extensions": [
+      "path---docs-core-extensions-de0370de51e3362db71e.js",
+      "path---docs-core-extensions-de0370de51e3362db71e.js.map"
+    ],
+    "path---docs-core-graphql": [
+      "path---docs-core-graphql-6037928d90e144f38add.js",
+      "path---docs-core-graphql-6037928d90e144f38add.js.map"
+    ],
+    "path---docs-core-angularjs-integration": [
+      "path---docs-core-angularjs-integration-44fc9499abbd46e0b0fa.js",
+      "path---docs-core-angularjs-integration-44fc9499abbd46e0b0fa.js.map"
+    ]
+  }
+}
